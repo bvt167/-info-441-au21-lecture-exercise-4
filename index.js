@@ -4,7 +4,7 @@
  * Lecture Exercise 3
  */
 
-const URL = "http://localhost:3000/";
+const URL = "https://blooming-earth-05118.herokuapp.com/";
 
 function fetchNumAltTags() {
   const website = id("url").value;
